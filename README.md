@@ -1,4 +1,4 @@
-## Olá, meu nome é Lia, tenho 30 anos, estudo programação e estou em busca da minha primeria oportunidade na área, para poder realizar a minha transição de carreira!
+## Olá, meu nome é Lia, atualmente trabalho com construção civil, porém estou em processo de transição de carreia, buscando a minha primeira oportunidade na área de tecnologia
 
  <a href="https://www.linkedin.com/in/lia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
