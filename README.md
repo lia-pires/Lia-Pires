@@ -1,4 +1,7 @@
-## Olá! Meu nome é Lia, estou em processo de transição de carreira, buscando a minha primeira oportunidade na área de tecnologia.
+# Olá, meu nome é Lia!
+## :eight_spoked_asterisk: Estou em processo de transição de carreira. :rocket:
+## :eight_spoked_asterisk: Busco a minha primeira oportunidade na área de tecnologia. :computer: :thought_balloon:
+## :eight_spoked_asterisk: Curso Análise e Desenvolvimento de Sistemas :closed_book:
 
  <a href="https://www.linkedin.com/in/lia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -22,7 +25,8 @@
   <img align="center" alt="Lia-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lia-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lia-dj" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">  
- <img align="center" alt="Lia-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
+  <img align="center" alt="Lia-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
+  <img align="center" alt="Lia-flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">  
   
 
 
