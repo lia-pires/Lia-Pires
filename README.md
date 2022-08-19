@@ -1,7 +1,7 @@
 # Olá, meu nome é Lia!
 ## :eight_spoked_asterisk: Estou em processo de transição de carreira. :rocket:
-## :eight_spoked_asterisk: Busco a minha primeira oportunidade na área de tecnologia. :computer: :thought_balloon:
-## :eight_spoked_asterisk: Curso Análise e Desenvolvimento de Sistemas :closed_book:
+## :eight_spoked_asterisk: Busco uma oportunidade na área de tecnologia. :computer: :thought_balloon:
+## :eight_spoked_asterisk: Cursando Análise e Desenvolvimento de Sistemas :closed_book:
 
  <a href="https://www.linkedin.com/in/lia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
