@@ -1,4 +1,4 @@
-# Olá, meu nome é Lia!
+# Olá, meu nome é Lia! / Hello, my name is Lia!
 
 ##  :eight_spoked_asterisk: Estou em processo de transição de carreira. / I'm changing my career field :rocket:
 ##  :eight_spoked_asterisk: Busco uma oportunidade na área de tecnologia. / Looking for an opportunity in the technology field.  :computer: :thought_balloon:
