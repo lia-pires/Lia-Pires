@@ -1,7 +1,7 @@
-# Olá, meu nome é Lia! / Hello, my name is Lia!
+# Olá, meu nome é Lia!
 
 
-##  :eight_spoked_asterisk: Cursando Análise e Desenvolvimento de Sistemas / Studying Systems Analysis and Development :closed_book:
+
 
  <a href="https://www.linkedin.com/in/lia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
