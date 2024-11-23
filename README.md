@@ -1,49 +1,20 @@
-# Hello, my name is Lia
-# System Analyst and Developer 
+# 👩‍💻 Lia Pires | Backend Developer | Data Engineering & Machine Learning Enthusiast
 
+Hi! I'm Lia, a **Backend Developer** passionate about technology and innovation. I'm currently pursuing a postgraduate degree in **Data Engineering** and hold a degree in **Systems Analysis and Development**.
 
+I have solid experience in **Python**, **Django**, **Flask**, **AWS**, **SQL & NoSQL Databases** and I love working on scalable and efficient solutions to solve complex problems. I believe that continuous learning is key to success, and I'm always looking for new ways to improve my technical skills and explore new fields of knowledge.
 
+In addition to backend development, I'm exploring **artificial intelligence** and **big data**, applying these concepts to create innovative and high-impact solutions.
 
+## 🔧 Technologies I use:
+- **Backend:** Python, Django, Flask
+- **AWS:** Lambda, S3, DynamoDB, EC2
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Machine Learning:** scikit-learn, pandas, numpy
 
+## 🔍 What motivates me:
+- Solving complex technical problems
+- Exploring new technologies
+- Contributing open-source solutions to the community
 
-
-
-
-
-
- <a href="https://www.linkedin.com/in/lia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-##
-
-<div align="center">
-  <a href="https://github.com/Lia-Pires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lia-Pires&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  
-  
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-Pires&layout=compact&langs_count=7&theme=monokai"/>    
-</div>
-
-##
-
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Lia-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Lia-dj" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"> 
-  <img align="center" alt="Lia-flask" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"> 
-  <img align="center" alt="Lia-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
-  <img align="center" alt="Lia-postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  
-    
-  
-
-
-
-
-##
- 
-<div> 
-  
-  ![Snake animation](https://github.com/Lia-Pires/Lia-Pires/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+If you're interested in **software development** or have ideas for collaboration, feel free to reach out!
